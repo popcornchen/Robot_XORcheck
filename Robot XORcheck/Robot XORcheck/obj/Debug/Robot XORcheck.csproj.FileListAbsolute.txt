@@ -1,0 +1,9 @@
+D:\机器人云平台边缘开发\Robot XORcheck\Robot XORcheck\bin\Debug\Robot XORcheck.exe.config
+D:\机器人云平台边缘开发\Robot XORcheck\Robot XORcheck\bin\Debug\Robot XORcheck.exe
+D:\机器人云平台边缘开发\Robot XORcheck\Robot XORcheck\bin\Debug\Robot XORcheck.pdb
+D:\机器人云平台边缘开发\Robot XORcheck\Robot XORcheck\obj\Debug\Robot XORcheck.csprojResolveAssemblyReference.cache
+D:\机器人云平台边缘开发\Robot XORcheck\Robot XORcheck\obj\Debug\Robot XORcheck.exe
+D:\机器人云平台边缘开发\Robot XORcheck\Robot XORcheck\obj\Debug\Robot XORcheck.pdb
+F:\a课题组\机器人云平台边缘开发\file desktop\Robot XORcheck\Robot XORcheck\bin\Debug\Robot XORcheck.exe.config
+F:\a课题组\机器人云平台边缘开发\file desktop\Robot XORcheck\Robot XORcheck\obj\Debug\Robot XORcheck.exe
+F:\a课题组\机器人云平台边缘开发\file desktop\Robot XORcheck\Robot XORcheck\obj\Debug\Robot XORcheck.pdb
